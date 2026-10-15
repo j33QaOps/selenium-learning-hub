@@ -1,0 +1,24 @@
+# Compiled class files & build artifacts
+target/
+*.class
+
+# Log files and test outputs
+*.log
+test-output/
+allure-results/
+surefire-reports/
+
+# IntelliJ IDEA project metadata
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Crash logs
+hs_err_pid*
+replay_pid*
